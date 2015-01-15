@@ -155,7 +155,6 @@ footer{
 
 a{
   color: $gray;
-
   &:hover {
   color: $gray-darker;
  }
@@ -166,10 +165,10 @@ a{
  }
  ul  {
   float: right;
-  list-style: none; 
+  list-style: none;
    li {
-    float: left;
     margin-left: 15px;
+    float: left;
     }
   }
 }
